@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot Keycloak Integration</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 		<keycloak.version>9.0.2</keycloak.version>
 	</properties>
 
